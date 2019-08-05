@@ -4,13 +4,15 @@
 * SVM - Support Vector Machines
   * [Notebook](./SVM.ipynb)
   * [Code](./SVM.py)
+* NB - Naive Bayes
+  * [Notebook](./NaiveBayes.ipynb)
+  * [Code](./NaiveBayes.py)
 ### To Be added
 #### Machine Learning
 * Linear Regression
 * Logistic Regression
 * KMeans
 * K Nearest Neighbour
-* Naive Bayes
 * RBM - Restricted Boltzmann Machine
 * Ensemble Methods: Gradient Boosting and Bagging
 #### Deep Learning
