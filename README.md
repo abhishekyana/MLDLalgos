@@ -1,11 +1,11 @@
-# Machine Learning and Deep Learning Algorithms Built from Scratch using Numpy
-## In the repository
-### Machine Learning
+## Machine Learning and Deep Learning Algorithms Built from Scratch using Numpy
+### In the repository
+#### Machine Learning
 * SVM - Support Vector Machines
   * [Notebook](./SVM.ipynb)
   * Code
-## To Be added
-### Machine Learning
+### To Be added
+#### Machine Learning
 * Linear Regression
 * Logistic Regression
 * KMeans
@@ -13,7 +13,7 @@
 * Naive Bayes
 * RBM - Restricted Boltzmann Machine
 * Ensemble Methods: Gradient Boosting and Bagging
-### Deep Learning
+#### Deep Learning
 * MLP - Multi Layer Perceptron
 * FNN - Feed Forward Neural Network
 * CNN - Convolutional Neural Network
