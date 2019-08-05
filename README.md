@@ -3,7 +3,7 @@
 #### Machine Learning
 * SVM - Support Vector Machines
   * [Notebook](./SVM.ipynb)
-  * Code
+  * [Code](./SVM.py)
 ### To Be added
 #### Machine Learning
 * Linear Regression
