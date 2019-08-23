@@ -4,7 +4,7 @@
 * SVM - Support Vector Machines
   * [Notebook](./SVM.ipynb)
   * [Code](./SVM.py)
-* NB - Naive Bayes
+* NB - Naive Bayes Model
   * [Notebook](./NaiveBayes.ipynb)
   * [Code](./NaiveBayes.py)
 ### To Be added and Updated
