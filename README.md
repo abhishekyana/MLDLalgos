@@ -20,3 +20,5 @@
 * FNN - Feed Forward Neural Network
 * CNN - Convolutional Neural Network
 * RNN - Recurrent Neural Network (GRU, LSTM)
+* Attention Mechanism
+* Transformers
