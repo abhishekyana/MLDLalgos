@@ -9,7 +9,7 @@
   * [Code](./NaiveBayes.py)
 ### To Be added and Updated
 #### Machine Learning
-* Linear Regression
+* Linear Regression (Multivariate)
 * Logistic Regression
 * KMeans
 * K Nearest Neighbour
