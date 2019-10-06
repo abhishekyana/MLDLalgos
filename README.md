@@ -13,7 +13,7 @@
 * Logistic Regression
 * KMeans
 * PCA - Principal Component Analysis
-* K Nearest Neighbour
+* KNNs - K Nearest Neighbour
 * RBM - Restricted Boltzmann Machine
 * Ensemble Methods: Gradient Boosting and Bagging
 #### Deep Learning
