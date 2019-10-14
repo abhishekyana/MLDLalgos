@@ -23,3 +23,4 @@
 * RNN - Recurrent Neural Network (GRU, LSTM)
 * Attention Mechanism
 * Transformers (Attention is all you need!)
+* etc
