@@ -16,7 +16,7 @@
 * KNNs - K Nearest Neighbour
 * RBM - Restricted Boltzmann Machine
 * Ensemble Methods: Gradient Boosting and Bagging
-#### Deep Learning
+#### Deep Learning:
 * MLP - Multi Layer Perceptron
 * FNN - Feed Forward Neural Network
 * CNN - Convolutional Neural Network
