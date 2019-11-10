@@ -1,6 +1,6 @@
 ## Machine Learning and Deep Learning Algorithms Built from Scratch using Numpy
 ### In this repository:
-#### Machine Learning
+#### Machine Learning:
 * SVM - Support Vector Machines
   * [Notebook](./SVM.ipynb)
   * [Code](./SVM.py)
