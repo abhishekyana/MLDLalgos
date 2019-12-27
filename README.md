@@ -7,7 +7,7 @@
 * NB - Naive Bayes Model
   * [Notebook](./NaiveBayes.ipynb)
   * [Code](./NaiveBayes.py)
-### To Be added and Updated
+### To Be added and Updated.
 #### Machine Learning
 * Linear Regression (Multivariate)
 * Logistic Regression
