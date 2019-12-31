@@ -22,4 +22,4 @@
 * CNN - Convolutional Neural Network
 * RNN - Recurrent Neural Network (GRU, LSTM)
 * Attention Mechanism
-* Transformers.
+* Transformers
