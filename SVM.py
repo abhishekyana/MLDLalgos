@@ -1,13 +1,5 @@
-
-# coding: utf-8
-
-# In[1]:
-
 import numpy as np
 from matplotlib import pyplot as plt
-
-# In[225]:
-
 #Input data
 x = np.array([[1 , 2, -1],
             [2 , 3, -1],
