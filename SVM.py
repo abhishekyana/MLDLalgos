@@ -65,7 +65,7 @@ def svmfit(x, y, learning_rate=0.1):
     epochs = 4 #Can be decreased :P
     for e in range(epochs):
         val1 = np.dot(x,w).reshape(-1,1)
-        #print((l_rate*(y*x)*(y*val1<1)).shape)
+        # print((l_rate*(y*x)*(y*val1<1)).shape)
         if ((y*val1)<1).sum()==0: #For early stopping
             print("Halted at :",e)
             break
